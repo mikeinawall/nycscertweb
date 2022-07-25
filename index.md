@@ -2,7 +2,7 @@
 
 |Class           | Assignment and Link|
 | -------------- | ------------------ |
-|Prework         | [ArrayLists](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#ds/ArrayLists/AlPractice.java)|
-|Programming     | [ArrayLists](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#ds/ArrayLists/AlPractice.java)|
+|Prework         | [Craps](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#programming/pre/08/Craps.java)|
+|Programming     | [SuperArray](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#programming/8/SuperArray.java)|
 |Data Structures | [ArrayLists](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#ds/ArrayLists/AlPractice.java)|
-|Methods         | [ArrayLists](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#ds/ArrayLists/AlPractice.java)|
+|Methods         | [Scaffold](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#methods/06_scaffold/activity.java)|
