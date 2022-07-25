@@ -1,5 +1,7 @@
 # nycscertweb
 
+Here are links to one assignment from each of the classes in the Computer Science Program
+
 |Class           | Assignment and Link|
 | -------------- | ------------------ |
 |Prework         | [Craps](https://replit.com/@mikeinawall/cohort-3-summer-work-mikeinawall#programming/pre/08/Craps.java)|
